@@ -1,0 +1,489 @@
+[Root]
+Most Recent Package=Paquete de instalación estándar 1
+
+
+[Package|Paquete de SOFTWARE DE TAMBO 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Mis documentos\PAQUETE_SOFWARE DE_TAMBO_1.0
+
+[Package|Paquete de SOFTWARE DE TAMBO 1|Configure DAO ISAMs]
+Applicable=Yes
+Xbase=Yes
+Excel=Yes
+Exchange=Yes
+Text=Yes
+Jet 2.x=Yes
+Lotus=Yes
+Paradox=Yes
+
+[Package|Paquete de SOFTWARE DE TAMBO 1|Configure DAO ODBC]
+JetWorkspace=Yes
+ODBCDirect=Yes
+
+[Package|Paquete de SOFTWARE DE TAMBO 1|Files Found]
+
+[Package|Paquete de SOFTWARE DE TAMBO 1|Files Released]
+
+[Package|Paquete de SOFTWARE DE TAMBO 1|Missing Dependency Information]
+C:\Archivos de programa\Windows NT\Accesorios\wordpad.exe=
+C:\WINDOWS\SYSTEM\MSEXCH35.DLL=
+C:\WINDOWS\SYSTEM\STDOLE32.TLB=
+C:\WINDOWS\SYSTEM\amcompat.tlb=
+C:\WINDOWS\SYSTEM\MSHTML.TLB=
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\TRIEDIT\DHTMLED.OCX=
+C:\Archivos de programa\Archivos comunes\SYSTEM\ADO\MSADOX.DLL=
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\Repostry\MIGV2.DLL=
+C:\WINDOWS\SYSTEM\ASCTRLS.OCX=
+C:\Archivos de programa\Archivos comunes\SYSTEM\ADO\MSADO20.TLB=
+
+[Package|Paquete de SOFTWARE DE TAMBO 1|Out-of-Date Dependency Information]
+C:\Archivos de programa\Microsoft Office\Office10\MSCAL.OCX=
+C:\WINDOWS\system32\mscomctl.ocx=
+C:\WINDOWS\system32\comctl32.ocx=
+C:\WINDOWS\system32\msmask32.ocx=
+C:\WINDOWS\system32\mschrt20.ocx=
+C:\WINDOWS\system32\mscomct2.ocx=
+C:\WINDOWS\system32\MSRDO20.DLL=
+
+[Package|Paquete de SOFTWARE DE TAMBO 1|Files Added]
+
+[Package|Paquete de SOFTWARE DE TAMBO 1|Files Removed]
+
+[Package|Paquete de SOFTWARE DE TAMBO 1|Files In Project]
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\Archivos de programa\Archivos comunes\System\ado\msadox.dll=Yes
+C:\Archivos de programa\Archivos comunes\Designer\MSDERUN.DLL=Yes
+C:\Archivos de programa\Archivos comunes\System\ado\msado20.tlb=Yes
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\Repostry\MIGV2.DLL=Yes
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\DAO2535.TLB=Yes
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\DAO350.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\Mis documentos\SOFTWARE_DE_TAMBO1.0\SOFTWARE_PARA_TAMBO_1.0.exe=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\WINDOWS\SYSTEM\VB6ES.DLL=Yes
+C:\WINDOWS\SYSTEM\MSBIND.DLL=Yes
+C:\WINDOWS\SYSTEM\MSSTDFMT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDFTES.DLL=Yes
+C:\WINDOWS\SYSTEM\MSDBRPTR.DLL=Yes
+C:\WINDOWS\SYSTEM\DBRPRES.DLL=Yes
+C:\WINDOWS\SYSTEM\ASCTRLS.OCX=Yes
+C:\WINDOWS\SYSTEM\MSJET35.DLL=Yes
+C:\WINDOWS\SYSTEM\MSJTER35.DLL=Yes
+C:\WINDOWS\SYSTEM\MSJINT35.DLL=Yes
+C:\WINDOWS\SYSTEM\VBAJET32.DLL=Yes
+C:\WINDOWS\SYSTEM\EXPSRV.DLL=Yes
+C:\WINDOWS\SYSTEM\MSRD2X35.DLL=Yes
+C:\WINDOWS\SYSTEM\MSREPL35.DLL=Yes
+C:\WINDOWS\SYSTEM\VB5DB.DLL=Yes
+C:\Archivos de programa\Archivos comunes\designer\MSHTMPGR.DLL=Yes
+C:\Archivos de programa\Archivos comunes\designer\HTMPRES.DLL=Yes
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\TRIEDIT\DHTMLED.OCX=Yes
+C:\WINDOWS\SYSTEM\MSHTML.TLB=Yes
+C:\WINDOWS\SYSTEM\amcompat.tlb=Yes
+C:\WINDOWS\SYSTEM\STDOLE32.TLB=Yes
+C:\WINDOWS\SYSTEM\MSDATGRD.OCX=Yes
+C:\WINDOWS\SYSTEM\DATGDES.DLL=Yes
+C:\WINDOWS\SYSTEM\MSADODC.OCX=Yes
+C:\WINDOWS\SYSTEM\ADODCES.DLL=Yes
+C:\WINDOWS\SYSTEM\MSCOMCT2.OCX=Yes
+C:\WINDOWS\SYSTEM\MSCC2ES.DLL=Yes
+C:\WINDOWS\SYSTEM\MSCHRT20.OCX=Yes
+C:\WINDOWS\SYSTEM\MSCH2ES.DLL=Yes
+C:\WINDOWS\SYSTEM\MSXBSE35.DLL=Yes
+C:\WINDOWS\SYSTEM\MSEXCL35.DLL=Yes
+C:\WINDOWS\SYSTEM\MSEXCH35.DLL=Yes
+C:\WINDOWS\SYSTEM\MSTEXT35.DLL=Yes
+C:\WINDOWS\SYSTEM\MSLTUS35.DLL=Yes
+C:\WINDOWS\SYSTEM\MSPDOX35.DLL=Yes
+C:\WINDOWS\SYSTEM\MSRDO20.DLL=Yes
+C:\WINDOWS\SYSTEM\RDOCURS.DLL=Yes
+C:\WINDOWS\SYSTEM\RDO20ES.DLL=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+
+[Package|Paquete de SOFTWARE DE TAMBO 1|Configure Registry Files]
+Applicable=No
+
+[Package|Paquete de SOFTWARE DE TAMBO 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Paquete de SOFTWARE DE TAMBO 1|Install Locations]
+C:\Documents and Settings\JOSE\Mis documentos\SOFTWARE_DE_TAMBO1.0\SOFTWARE_PARA_TAMBO_1.0.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6ES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\mshtml.tlb=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\System\ado\msadox.dll=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\Designer\MSDERUN.DLL=$(CommonFiles)\designer
+C:\WINDOWS\system32\MSBIND.DLL=$(WinSysPath)
+C:\WINDOWS\system32\msstdfmt.dll=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\System\ado\msado20.tlb=$(WinSysPath)
+C:\WINDOWS\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\DBRPRES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\asctrls.ocx=$(WinSysPath)
+C:\WINDOWS\system32\plugin.ocx=$(WinSysPath)
+C:\WINDOWS\system32\amcompat.tlb=$(WinSysPath)
+C:\WINDOWS\msagent\agentctl.dll=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\MSDesigners7\msdds.dll=$(WinSysPath)
+C:\WINDOWS\system32\nscompat.tlb=$(WinSysPath)
+C:\WINDOWS\system32\activeds.tlb=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\Repostry\MIGV2.DLL=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\DAO2535.TLB=$(MSDAOPath)
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINDOWS\system32\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\vbajet32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\expsrv.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB5DB.DLL=$(WinSysPath)
+C:\WINDOWS\system32\regwizc.dll=$(WinSysPath)
+C:\WINDOWS\system32\mplay32.exe=$(WinSysPath)
+C:\WINDOWS\system32\webvw.dll=$(WinSysPath)
+C:\Archivos de programa\Microsoft Office\Office10\EXCEL.EXE=$(AppPath)
+C:\WINDOWS\system32\sndrec32.exe=$(AppPath)
+C:\Archivos de programa\Microsoft Office\Office10\GRAPH.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Office\Office10\WINWORD.EXE=$(AppPath)
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\PhotoEd\PHOTOED.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Office\Office10\POWERPNT.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Office\Office10\FPDTC.DLL=$(AppPath)
+C:\Archivos de programa\Publicación en Web\FLUPL.OCX=$(AppPath)
+C:\Archivos de programa\Windows NT\Accesorios\wordpad.exe=$(AppPath)
+C:\WINDOWS\system32\lmrt.dll=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\Equation\EQNEDT32.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Office\Office10\OUTLCTL.DLL=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\MSDesigners98\MDT2FW.DLL=$(WinSysPath)
+C:\Archivos de programa\Microsoft Office\Office10\MSRTEDIT.DLL=$(WinSysPath)
+C:\WINDOWS\system32\cryptext.dll=$(AppPath)
+C:\Archivos de programa\Archivos comunes\Crystal Decisions\1.0\Bin\saxmlserialize.dll=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\Crystal Decisions\1.0\Bin\Cdo32.dll=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\Crystal Decisions\1.0\Bin\crqe.dll=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\Crystal Decisions\1.0\Bin\craxddrt20.dll=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\Crystal Decisions\1.0\Bin\datadefmodel.dll=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\Crystal Decisions\1.0\Bin\tslv.dll=$(WinSysPath)
+C:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\DATGDES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSDATLST.OCX=$(WinSysPath)
+C:\WINDOWS\system32\DATLSES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\FM20.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSHFLXGD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSHFGES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSINET.OCX=$(WinSysPath)
+C:\WINDOWS\system32\INETES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMM32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSRDC20.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSRDO20.DLL=$(WinSysPath)
+C:\WINDOWS\system32\RDOCURS.DLL=$(WinSysPath)
+C:\WINDOWS\system32\RDO20ES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\RDC20ES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSADODC.OCX=$(WinSysPath)
+C:\WINDOWS\system32\ADODCES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\mscomct2.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSCC2ES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\COMDLG32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\CMDLGES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\mschrt20.ocx=$(WinSysPath)
+C:\WINDOWS\system32\msch2ES.dll=$(WinSysPath)
+C:\WINDOWS\system32\DBLIST32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\DBLSTES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSDATREP.OCX=$(WinSysPath)
+C:\WINDOWS\system32\DATRPES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\daxctle.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSFLXGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\FLXGDES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSMAPI32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSMPIES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MCI32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MCIES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\msmask32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\msmskES.dll=$(WinSysPath)
+C:\Archivos de programa\Microsoft Office\Office10\MSOWC.DLL=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\Web Components\10\OWC10.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSWINSCK.OCX=$(WinSysPath)
+C:\WINDOWS\system32\WINSKES.DLL=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\MSInfo\IEINFO5.OCX=$(WinSysPath)
+C:\Archivos de programa\Ahead\Nero\WaveEditor\Recording.ocx=$(WinSysPath)
+C:\WINDOWS\system32\SYSINFO.OCX=$(WinSysPath)
+C:\WINDOWS\system32\SYSINES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\comctl32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\CMCTLES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\mscomctl.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\comct232.ocx=$(WinSysPath)
+C:\WINDOWS\system32\CMCT2ES.DLL=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\FLEXWIZ.OCX=$(WinSysPath)
+C:\Archivos de programa\Microsoft Office\Office10\MSCAL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSEXCL35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSEXCH35.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSLTUS35.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\WINDOWS\system32\MSPDOX35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSTEXT35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\MSXBSE35.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\Mis documentos\SOFTWARE_DE_TAMBO1.0\SOFTWARE_PARA_TAMBO_1.0.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VB6ES.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSBIND.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\STDFTES.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\DBRPRES.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\ASCTRLS.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VBAJET32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\EXPSRV.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VB5DB.DLL=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\designer\MSHTMPGR.DLL=$(CommonFiles)\Designer
+C:\Archivos de programa\Archivos comunes\designer\HTMPRES.DLL=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\TRIEDIT\DHTMLED.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSHTML.TLB=$(WinSysPath)
+C:\WINDOWS\SYSTEM\amcompat.tlb=$(WinSysPath)
+C:\WINDOWS\SYSTEM\STDOLE32.TLB=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\DATGDES.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSADODC.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\ADODCES.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCC2ES.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCHRT20.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCH2ES.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSXBSE35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSEXCL35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSEXCH35.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSTEXT35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSLTUS35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSPDOX35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSRDO20.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\RDOCURS.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\RDO20ES.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+
+[Package|Paquete de SOFTWARE DE TAMBO 1|Configure Shared Files]
+Applicable=Yes
+C:\Documents and Settings\JOSE\Mis documentos\SOFTWARE_DE_TAMBO1.0\SOFTWARE_PARA_TAMBO_1.0.exe=Yes
+C:\Archivos de programa\Microsoft Office\Office10\EXCEL.EXE=Yes
+C:\WINDOWS\system32\sndrec32.exe=Yes
+C:\Archivos de programa\Microsoft Office\Office10\GRAPH.EXE=Yes
+C:\Archivos de programa\Microsoft Office\Office10\WINWORD.EXE=Yes
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\PhotoEd\PHOTOED.EXE=Yes
+C:\Archivos de programa\Microsoft Office\Office10\POWERPNT.EXE=Yes
+C:\Archivos de programa\Microsoft Office\Office10\FPDTC.DLL=Yes
+C:\Archivos de programa\Publicación en Web\FLUPL.OCX=Yes
+C:\Archivos de programa\Windows NT\Accesorios\wordpad.exe=Yes
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\Equation\EQNEDT32.EXE=Yes
+C:\WINDOWS\system32\cryptext.dll=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Mis documentos\SOFTWARE_DE_TAMBO1.0\SOFTWARE_PARA_TAMBO_1.0.exe=Yes
+
+[Package|Paquete de SOFTWARE DE TAMBO 1|Distribution]
+Type=single
+Size=1.44 MB
+Title=SOFTWARE DE TAMBO 1.0
+
+[Package|Paquete de SOFTWARE DE TAMBO 1|Package]
+PackageFolder=C:\Documents and Settings\JOSE\Mis documentos\PAQUETE_SOFWARE DE_TAMBO_1.0
+ProjectFolder=C:\Documents and Settings\JOSE\Mis documentos\SOFTWARE_DE_TAMBO1.0
+ServerSideCab=
+File1=C:\Documents and Settings\JOSE\Mis documentos\PAQUETE_SOFWARE DE_TAMBO_1.0\setup.exe
+File2=C:\Documents and Settings\JOSE\Mis documentos\PAQUETE_SOFWARE DE_TAMBO_1.0\Setup.Lst
+File3=C:\Documents and Settings\JOSE\Mis documentos\PAQUETE_SOFWARE DE_TAMBO_1.0\SOFTWARE_PARA_TAMBO_1.0.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Paquete de SOFTWARE DE TAMBO 1|IconGroups]
+Group0=SOFTWARE DE TAMBO 1.0
+PrivateGroup0=Falso
+Parent0=$(Programs)
+
+[Package|Paquete de SOFTWARE DE TAMBO 1|SOFTWARE DE TAMBO 1.0]
+Icon1=SOFTWARE_PARA_TAMBO_1.0.exe
+Title1=SOFTWARE DE TAMBO 1.0
+StartIn1=$(AppPath)
+Key1=Icon1
+
+
+[Package|Paquete de instalación estándar 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\Mis documentos\SOFTWARE_DE_TAMBO1.0\empaquetado
+
+[Package|Paquete de instalación estándar 1|Configure DAO ISAMs]
+Applicable=No
+Lotus=No
+Exchange=No
+Text=No
+Paradox=No
+Excel=No
+Xbase=No
+Jet 2.x=No
+
+[Package|Paquete de instalación estándar 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Paquete de instalación estándar 1|Files Found]
+
+[Package|Paquete de instalación estándar 1|Files Released]
+
+[Package|Paquete de instalación estándar 1|Missing Dependency Information]
+C:\WINDOWS\SYSTEM\STDOLE32.TLB=
+C:\WINDOWS\SYSTEM\amcompat.tlb=
+C:\WINDOWS\SYSTEM\MSHTML.TLB=
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\TRIEDIT\DHTMLED.OCX=
+C:\Archivos de programa\Archivos comunes\SYSTEM\ADO\MSADOX.DLL=
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\Repostry\MIGV2.DLL=
+C:\WINDOWS\SYSTEM\ASCTRLS.OCX=
+C:\Archivos de programa\Archivos comunes\SYSTEM\ADO\MSADO20.TLB=
+
+[Package|Paquete de instalación estándar 1|Out-of-Date Dependency Information]
+C:\WINDOWS\SYSTEM\mscomct2.ocx=
+C:\WINDOWS\SYSTEM\msstdfmt.dll=
+
+[Package|Paquete de instalación estándar 1|Files Added]
+
+[Package|Paquete de instalación estándar 1|Files Removed]
+
+[Package|Paquete de instalación estándar 1|Files In Project]
+C:\Mis documentos\SOFTWARE_DE_TAMBO1.0\SOFTWARE_PARA_TAMBO_1.0.exe=Yes
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=Yes
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=Yes
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\SYSTEM\VB6ES.DLL=Yes
+C:\Archivos de programa\Archivos comunes\designer\MSDERUN.DLL=Yes
+C:\WINDOWS\SYSTEM\MSBIND.DLL=Yes
+C:\WINDOWS\SYSTEM\MSSTDFMT.DLL=Yes
+C:\WINDOWS\SYSTEM\STDFTES.DLL=Yes
+C:\Archivos de programa\Archivos comunes\SYSTEM\ADO\MSADO20.TLB=Yes
+C:\WINDOWS\SYSTEM\MSDATGRD.OCX=Yes
+C:\WINDOWS\SYSTEM\DATGDES.DLL=Yes
+C:\WINDOWS\SYSTEM\MSADODC.OCX=Yes
+C:\WINDOWS\SYSTEM\ADODCES.DLL=Yes
+C:\WINDOWS\SYSTEM\MSCOMCT2.OCX=Yes
+C:\WINDOWS\SYSTEM\MSCC2ES.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Paquete de instalación estándar 1|Configure Registry Files]
+Applicable=No
+
+[Package|Paquete de instalación estándar 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Paquete de instalación estándar 1|Install Locations]
+C:\Mis documentos\SOFTWARE_DE_TAMBO1.0\SOFTWARE_PARA_TAMBO_1.0.exe=$(AppPath)
+C:\WINDOWS\SYSTEM\MSVBVM60.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VB6ES.DLL=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\designer\MSDERUN.DLL=$(CommonFiles)\designer
+C:\WINDOWS\SYSTEM\MSBIND.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSSTDFMT.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\STDFTES.DLL=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\SYSTEM\ADO\MSADO20.TLB=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\DBRPRES.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\ASCTRLS.OCX=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\Repostry\MIGV2.DLL=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\DAO2535.TLB=$(MSDAOPath)
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\DAO\DAO350.DLL=$(MSDAOPath)
+C:\WINDOWS\SYSTEM\MSJET35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSJTER35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSJINT35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VBAJET32.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\EXPSRV.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSRD2X35.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\MSREPL35.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MSVCRT40.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\SYSTEM\VB5DB.DLL=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\SYSTEM\ADO\MSADOX.DLL=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\designer\MSHTMPGR.DLL=$(CommonFiles)\Designer
+C:\Archivos de programa\Archivos comunes\designer\HTMPRES.DLL=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\Microsoft Shared\TRIEDIT\DHTMLED.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSHTML.TLB=$(WinSysPath)
+C:\WINDOWS\SYSTEM\amcompat.tlb=$(WinSysPath)
+C:\WINDOWS\SYSTEM\STDOLE32.TLB=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\DATGDES.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSADODC.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\ADODCES.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCC2ES.DLL=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCHRT20.OCX=$(WinSysPath)
+C:\WINDOWS\SYSTEM\MSCH2ES.DLL=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\SYSTEM\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Paquete de instalación estándar 1|Configure Shared Files]
+Applicable=Yes
+C:\Mis documentos\SOFTWARE_DE_TAMBO1.0\SOFTWARE_PARA_TAMBO_1.0.exe=No
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+
+[Package|Paquete de instalación estándar 1|Distribution]
+Type=multi
+Size=1.44 MB
+Title=SOFTWARE DE TAMBO 1.0
+
+[Package|Paquete de instalación estándar 1|IconGroups]
+Group0=SOFTWARE DE TAMBO 1.0
+PrivateGroup0=Falso
+Parent0=$(Programs)
+
+[Package|Paquete de instalación estándar 1|SOFTWARE DE TAMBO 1.0]
+Icon1=SOFTWARE_PARA_TAMBO_1.0.exe
+Title1=SOFTWARE DE TAMBO 1.0
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Paquete de instalación estándar 1|Package]
+PackageFolder=C:\Mis documentos\SOFTWARE_DE_TAMBO1.0\empaquetado
+ProjectFolder=C:\Mis documentos\SOFTWARE_DE_TAMBO1.0
+ServerSideCab=
+File1=C:\Mis documentos\SOFTWARE_DE_TAMBO1.0\empaquetado\setup.exe
+File2=C:\Mis documentos\SOFTWARE_DE_TAMBO1.0\empaquetado\Setup.Lst
+File3=C:\Mis documentos\SOFTWARE_DE_TAMBO1.0\empaquetado\SOFTWA1.CAB
+File4=C:\Mis documentos\SOFTWARE_DE_TAMBO1.0\empaquetado\SOFTWA2.CAB
+File5=C:\Mis documentos\SOFTWARE_DE_TAMBO1.0\empaquetado\SOFTWA3.CAB
+File6=C:\Mis documentos\SOFTWARE_DE_TAMBO1.0\empaquetado\SOFTWA4.CAB
+File7=C:\Mis documentos\SOFTWARE_DE_TAMBO1.0\empaquetado\SOFTWA5.CAB
+File8=C:\Mis documentos\SOFTWARE_DE_TAMBO1.0\empaquetado\SOFTWA6.CAB
+File9=C:\Mis documentos\SOFTWARE_DE_TAMBO1.0\empaquetado\SOFTWA7.CAB
+Handler1=PDWizard.FloppyDplySubWiz
+Handler2=PDWizard.FolderDplySubWiz
+Handler3=PDWizard.WebPostDplySubWiz

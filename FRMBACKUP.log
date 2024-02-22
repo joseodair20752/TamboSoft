@@ -1,0 +1,6 @@
+Línea 23: la clase MSForms.Label del control Label1 no era una clase de control cargada.
+Línea 30: el nombre de la propiedad Caption de Label1 no es válido.
+Línea 31: el nombre de la propiedad Size de Label1 no es válido.
+Línea 33: el nombre de la propiedad FontHeight de Label1 no es válido.
+Línea 34: el nombre de la propiedad FontCharSet de Label1 no es válido.
+Línea 35: el nombre de la propiedad FontPitchAndFamily de Label1 no es válido.
